@@ -1,0 +1,10 @@
+{
+  "appId": "com.telicsolutions.workkarr",
+  "appName": "WorkKarr",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+  },
+  "cordova": {}
+}

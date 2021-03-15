@@ -1,0 +1,5 @@
+export {default as SingInView} from './SignInView/singInView'
+export {default as home} from '../pages/home'
+export {default as Register} from './Register/register'
+export {default as MyAds} from './MyAds/MyAds'
+export {default as MyInbox} from './MyInbox/MyInbox'

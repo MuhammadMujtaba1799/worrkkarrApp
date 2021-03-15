@@ -1,0 +1,11 @@
+.imgStyle {
+  /* width: auto; */
+  width: 263px !important;
+  height: 235px !important;
+  /* max-height: 100%; */
+}
+
+.swiper-slide img {
+  width: 100% !important;
+  height: 350px !important;
+}

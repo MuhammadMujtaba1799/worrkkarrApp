@@ -1,0 +1,7 @@
+{
+  "name": "WorkKarr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

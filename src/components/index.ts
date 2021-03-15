@@ -1,0 +1,6 @@
+export {default as Registration} from './registration/Registration'
+export {default as Category} from './subCategory/category'
+export {default as SubCategory} from './subCategory/subCategory'
+export {default as ProductDetails} from './Product Details/productDetails'
+export {default as MyAds} from './myAds/MyAds'
+export {default as HomeC} from './Home/home'
